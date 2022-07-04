@@ -1,5 +1,7 @@
 # RockPaperScissor
 "Rock_Paper_Scissor" game using python functions and random module.
+
+
 Project Description Here's how our project works:
 
 This game will be played between the computer and the user. 
